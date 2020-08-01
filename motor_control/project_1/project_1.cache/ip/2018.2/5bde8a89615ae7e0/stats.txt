@@ -1,0 +1,4 @@
+NumberHits:0
+Timestamp: Fri Jul 31 10:37:43 UTC 2020
+VLNV: xilinx.com:user:Driver_UART:1.0
+SynthRuntime: 27
